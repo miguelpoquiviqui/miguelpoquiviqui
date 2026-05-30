@@ -137,14 +137,6 @@ Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, m
 />
 <img 
     align="left" 
-    alt="React Native" 
-    title="Programação Mobile (React Native)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Figma" 
     title="UX e UI (Figma)"
     width="30px" 
