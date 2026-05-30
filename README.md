@@ -5,6 +5,13 @@
 Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, mas atualmente moro em Minas Gerais. Estou no último semestre de Análise e Desenvolvimento de Sistemas (2/2) e tenho grandes planos para o futuro: cursar Engenharia de Software e mergulhar cada vez mais fundo no mundo da tecnologia. Sou movido pela curiosidade e estou em busca da minha primeira oportunidade de estágio, onde possa transformar todo esse aprendizado em experiência real. Acompanhe minha jornada pelo Instagram no perfil [@miguelpoquiviqui_](https://www.instagram.com/miguelpoquiviqui_/).
 
 <p align="left">
+    <a href="https://miguelpoquiviqui.github.io/miguel/" target="_blank">
+        <img 
+            alt="Portfólio" 
+            title="Acesse meu portfólio" 
+            src="https://img.shields.io/badge/Portfólio-Acessar-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a5c8a"
+        />
+    </a>
     <a href="https://www.instagram.com/miguelpoquiviqui_/">
         <img 
             alt="instagram" 
@@ -151,3 +158,13 @@ Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/><br/>
+
+---
+
+### 📊 Estatísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelpoquiviqui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/miguelpoquiviqui)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpoquiviqui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/miguelpoquiviqui)
