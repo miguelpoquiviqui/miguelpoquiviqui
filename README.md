@@ -158,13 +158,3 @@ Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/><br/>
-
----
-
-### 📊 Estatísticas
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelpoquiviqui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/miguelpoquiviqui)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpoquiviqui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/miguelpoquiviqui)
