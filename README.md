@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, mas atualmente moro em Minas Gerais. Estou no último semestre de Análise e Desenvolvimento de Sistemas (2/2) e tenho grandes planos para o futuro: cursar Engenharia de Software e mergulhar cada vez mais fundo no mundo da tecnologia. Sou movido pela curiosidade e estou em busca da minha primeira oportunidade de emprego, onde possa transformar todo esse aprendizado em experiência real. Acompanhe minha jornada pelo Instagram no perfil [@miguelpoquiviqui_](https://www.instagram.com/miguelpoquiviqui_/).
+Me chamo Miguel da Silva Poquiviqui, tenho 17 anos e sou natural de Rondônia, mas atualmente moro em Minas Gerais. Estou no último semestre de Técnico em Análise e Desenvolvimento de Sistemas (2/2) e tenho grandes planos para o futuro: cursar Engenharia de Software e mergulhar cada vez mais fundo no mundo da tecnologia. Sou movido pela curiosidade e estou em busca da minha primeira oportunidade de emprego, onde possa transformar todo esse aprendizado em experiência real. Acompanhe minha jornada pelo Instagram no perfil [@miguelpoquiviqui_](https://www.instagram.com/miguelpoquiviqui_/) ou acesse meu Porfólio para ver meus projetos principais.
 
 <p align="left">
     <a href="https://miguelpoquiviqui.github.io/miguel/" target="_blank">
